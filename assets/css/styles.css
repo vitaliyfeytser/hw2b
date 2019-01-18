@@ -1,0 +1,9 @@
+.media {
+    flex-flow: wrap;
+}
+
+#my-pic {
+    width: 12em;
+    margin-bottom: 1em; 
+}
+
